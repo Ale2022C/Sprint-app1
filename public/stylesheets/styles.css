@@ -11,7 +11,7 @@ p {
   color: #ffffff;
 }
 
-h2, .index {
+h2 {
   color: #FFFF;
 }
 
@@ -26,6 +26,11 @@ h3, .title {
 /*  */img{
 
   background-size: cover;
+}
+
+.index {
+  color: #ffffff;
+  filter: drop-shadow(0 0 0.15rem #ff0000);
 }
 
 .fondo {
